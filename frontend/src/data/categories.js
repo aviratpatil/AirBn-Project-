@@ -1,0 +1,15 @@
+export const CATEGORIES = [
+  { id: 'all', label: 'All Homes', icon: 'Sparkles', description: 'Explore all available properties' },
+  { id: 'beachfront', label: 'Beachfront', icon: 'Waves', description: 'Steps from ocean waves and sandy shores' },
+  { id: 'cabins', label: 'Cabins', icon: 'Home', description: 'Cozy wooden retreats nestled in nature' },
+  { id: 'amazing-views', label: 'Amazing Views', icon: 'Mountain', description: 'Panoramic vistas and cliffside sights' },
+  { id: 'iconic-cities', label: 'Iconic Cities', icon: 'Building2', description: 'Vibrant urban apartments in city centers' },
+  { id: 'countryside', label: 'Countryside', icon: 'Trees', description: 'Peaceful rural farmhouses and vineyard stays' },
+  { id: 'lakefront', label: 'Lakefront', icon: 'Anchor', description: 'Tranquil lake houses with private docks' },
+  { id: 'mansions', label: 'Mansions', icon: 'Crown', description: 'Expansive luxury estates with private pools' },
+  { id: 'tiny-homes', label: 'Tiny Homes', icon: 'Compass', description: 'Cleverly designed compact architectural gems' },
+  { id: 'treehouses', label: 'Treehouses', icon: 'Palmtree', description: 'Magical elevated sanctuaries in forest canopies' },
+  { id: 'ski-in-out', label: 'Ski-in/out', icon: 'Snowflake', description: 'Direct access to premier ski slopes' },
+  { id: 'tropical', label: 'Tropical', icon: 'Sun', description: 'Lush island villas with open-air pavilions' },
+  { id: 'desert', label: 'Desert', icon: 'Flame', description: 'Modern desert architecture under starlit skies' },
+];
